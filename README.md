@@ -6,9 +6,9 @@ Maze3D is a C++ OpenGL application (GLFW + GLAD + GLM) that procedurally generat
 ---
 
 ## Repo contents (important files)
-- `src/main.cpp` — main source file (procedural maze, mesh build, rendering, input, collision).  
-- `assets/wall.jpg`, `assets/floor.jpg` — textures used at runtime.  
-- `screenshots/` — sample images demonstrating the app.  
+- `main.cpp` — main source file (procedural maze, mesh build, rendering, input, collision).  
+- `wall.jpg`, `floor.jpg` — textures used at runtime.  
+- `screenshot` — sample image demonstrating the app.  
 
 ---
 
